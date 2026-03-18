@@ -265,7 +265,7 @@ function PremiumContent() {
             <Crown className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="text-2xl font-bold text-white">DiscoAI Premium</h1>
+            <h1 className="text-2xl font-bold text-white">DiscoAI Premium Pro</h1>
             <p className="text-white/80 text-sm">Desbloquea todo el potencial</p>
           </div>
         </div>
